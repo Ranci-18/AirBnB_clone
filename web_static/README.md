@@ -1,0 +1,1 @@
+Creating a static web page using HTML and CSS. Completed by Frank Ng'ang'a.

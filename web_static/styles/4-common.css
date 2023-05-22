@@ -1,0 +1,20 @@
+/* Common Styles */
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+body {
+    color: #484848;
+    font-size: 14px;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+body .container {
+    width: 1000px;
+    margin: 30px auto;
+    padding-bottom:  3.75rem;
+}
